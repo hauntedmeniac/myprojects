@@ -1,0 +1,28 @@
+.item {
+  color: rgb(192, 255, 200);
+  width: 500px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+.itemname {
+  font-weight: bold;
+  padding: 20px;
+}
+.line {
+  border: 0.1px solid white;
+}
+.delete {
+  float: right;
+  border-radius: 4px;
+  background-color: rgb(74,33,229);
+  padding: 5px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  box-shadow: 0 8px 10px rgb(161, 204, 233);
+  width: 40px;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+}

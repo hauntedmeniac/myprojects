@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  background-color: #00331a;
+ color: rgb(198, 248, 207);
+  font-weight: bold;
+  padding: 4px;
+  font: 40em;
+  box-shadow: 0px 2px 2px rgb(180, 210, 245);
+  text-align: center;
+  width: 90%;
+   height: 5vh;
+   font-size: 2vw;
+  margin: auto;
+   border-radius: 8px;
+    margin-top: 10px;
+}
