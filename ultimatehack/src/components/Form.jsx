@@ -1,4 +1,4 @@
-import styles from "/data/data/com.termux/files/home/ultimatehack/src/Css modules/form.module.css";
+import styles from "/src/Css modules/form.module.css";
 import { useState } from "react";
 export default function Form({ setTodos, todos }) {
   // const [todo, setTodo] = useState("");

@@ -1,7 +1,7 @@
 import Form from "./Form";
 import { useState } from "react";
 import Todolist from "./Todolist";
-import Styles from "/data/data/com.termux/files/home/ultimatehack/src/Css modules/TodoItem.module.css";
+import Styles from "/src/Css modules/TodoItem.module.css";
 import Footer from "./footer";
 
 export default function Todo() {

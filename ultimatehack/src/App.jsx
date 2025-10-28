@@ -1,7 +1,7 @@
 import Form from "./components/Form";
 import Header from "./components/Header";
 import Todo from "./components/Todo";
-import "/data/data/com.termux/files/home/ultimatehack/src/Css modules/App.css";
+import "/src/Css modules/App.css";
 
 function App() {
   return (

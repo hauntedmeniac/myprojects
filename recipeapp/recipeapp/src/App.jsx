@@ -1,4 +1,4 @@
-import '/data/data/com.termux/files/home/recipeapp/recipeapp/src/App.css'
+import '/recipeapp/recipeapp/src/App.css'
 function App(){
   return (
       <div>

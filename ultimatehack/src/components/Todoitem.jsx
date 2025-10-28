@@ -1,4 +1,4 @@
-import Styles from "/data/data/com.termux/files/home/ultimatehack/src/Css modules/TodoItem.module.css";
+import Styles from "/src/Css modules/TodoItem.module.css";
 export default function Todoitem({ item, todos, setTodos }) {
   function handledelete() {
     setTodos(todos.filter((todo) => todo !== item));
