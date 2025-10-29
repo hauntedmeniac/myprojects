@@ -1,8 +1,9 @@
-import '/recipeapp/recipeapp/src/App.css'
+import '/src/App.css'
+import Search from './Components/Search'
 function App(){
   return (
       <div>
-    <h1>hey</h1>    
+    <Search></Search>
       </div>
   )
 }
