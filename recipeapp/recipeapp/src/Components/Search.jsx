@@ -1,6 +1,6 @@
 import { useState,useEffect } from 'react'
 export default function Search(){
-  const [query,setQuery]=useState("pizza")
+  const [query,setQuery]=useState("pizzeria")
   useEffect(()=>{Function Demo(){}
     Demo()
   },[query])
